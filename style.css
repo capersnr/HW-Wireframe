@@ -1,0 +1,91 @@
+body {
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    background: #777;
+    color: #777;
+    width: 960px;
+    font-size: 18px;
+    }
+    
+    header {
+        background: #ebebeb;
+        height: 50px;
+        text-align: center;
+        display: block;
+        font-size: 18px;
+    }
+    
+    nav {
+        background: #ebebeb;
+        height: 100px;
+        display: block;
+        height: 50px;
+        margin: 10px 0PX 10PX 0PX;
+        text-align: center;
+        font-size: 18px;
+    }
+    
+    .left {
+        background: #ebebeb;
+        float: left;
+        display: block;
+        width: 495px;
+        height: 300px;
+        margin: 10PX 0PX 0PX 0PX;
+        text-align: center;
+        overflow: hidden;
+        font-size: 18px;
+    }
+    
+    .right {
+        background: #ebebeb;
+        float: right;
+        width: 350px;
+        height: 300px;
+        margin: 10PX 0PX 0PX 0PX;
+        display: block;
+        overflow: hidden;    
+        text-align: center;
+        font-size: 18px;
+    }
+    
+    .middle {
+        position: absolute;
+        margin-left: 60px;
+        margin-top: 30px;
+        color: #777;
+        width: 350px;
+        height: 200px;
+        background: #777
+    
+    }
+    
+    footer {
+        display: block;
+        background: #ebebeb;
+        height: 50px;
+        margin: 10px 0PX 0PX 0PX;
+        clear: both;
+        text-align: center;
+        font-size: 18px;
+    }
+    
+    
+    .clear {
+      clear: both;
+    }
+    
+    
+    h1 {
+        width: 300px;
+        height: 50px;
+        margin: 20px 20PX 0PX 20PX;
+        background: #ebebeb;
+        color: #777
+    }
+    
+    p {
+        font-size: 18px;
+        color: #ebebeb;
+    }
+    
+    
